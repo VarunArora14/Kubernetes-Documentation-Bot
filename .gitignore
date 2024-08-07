@@ -1,0 +1,4 @@
+venv/*
+.env
+chromadb/*
+k8s-joplin/*
