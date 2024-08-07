@@ -6,6 +6,4 @@ The data consists of **markdown files** based of kubernetes documentation stored
 The initial idea was making it a personal notes bot but since I had lot of code and documentation code as part of my notes, I felt like calling it Documentation bot makes more sense.
 APIs for both **HyDe** and **Decomposition** techniques exist separately. Make sure to create virtual environment and try running and hitting backend APIs using postman before starting frontend on streamlit.
 
-Please refer to the following video demo which is also hosted on youtube at - 
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=jTsQqHk0E7E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Please refer to the following video demo which is also hosted on youtube at - https://www.youtube.com/watch?v=jTsQqHk0E7E
