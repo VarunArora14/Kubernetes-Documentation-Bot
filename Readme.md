@@ -1,4 +1,7 @@
-### Documentation Bot🤖
+### Kuberneted Documentation Bot🤖
+
+
+This project was submitted at **Google Gemini API Develeoper competition 2024**.
 
 This repo is code for GenAI chatbot made to answer user queries about documentations. It has markdown data fed to it using **chromaDB** vector store.
 The data consists of **markdown files** based of kubernetes documentation stored by me as personal notes in Joplin app. It uses **sentence transformers - all-MiniLM-L6-v2** for creating embeddings.
