@@ -1,4 +1,4 @@
-### Kuberneted Documentation Bot🤖
+### Kubernetes Documentation Bot🤖
 
 
 This project was submitted at **Google Gemini API Developer competition 2024**.
